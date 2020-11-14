@@ -4,3 +4,6 @@
 [submodule "ArcanoxLib"]
 	path = ArcanoxLib
 	url = ../ArcanoxLib-MC.git
+[submodule "Multipart"]
+	path = Multipart
+	url = ../MinecraftMultipart.git
