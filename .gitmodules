@@ -1,3 +1,6 @@
 [submodule "TechMod"]
 	path = TechMod
 	url = https://github.com/ArcanoxDragon/UntitledTechMod.git
+[submodule "ArcanoxLib"]
+	path = ArcanoxLib
+	url = ../ArcanoxLib-MC.git
